@@ -1,2 +1,7 @@
+b218826 Merge branch 'prueba'
+e6359ce Página2 main
+c73fbfe Buenos dias
+c400cd8 Añadiendo pagina2
+8295818 Añado pagina1
 aa3eadf Añado Index
 66f4df1 Primer commit
